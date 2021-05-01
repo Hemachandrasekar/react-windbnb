@@ -1,0 +1,23 @@
+.card-title {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 20px;
+  /* identical to box height */
+
+  color: #333333;
+}
+.card-badge {
+  border: 1px solid #4f4f4f;
+  box-sizing: border-box;
+  border-radius: 12px;
+}
+
+.card-img {
+  width: 395px;
+  height: 269px;
+
+  /* background: url(image.png); */
+  border-radius: 24px;
+}
